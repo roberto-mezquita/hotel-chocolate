@@ -1,6 +1,3 @@
-# hotel-chocolate
-Sistema de gestión hotelera desarrollado en C# y Windows Forms.
-
 # Hotel Chocolate
 
 Sistema de gestión hotelera desarrollado en C# utilizando Windows Forms.
