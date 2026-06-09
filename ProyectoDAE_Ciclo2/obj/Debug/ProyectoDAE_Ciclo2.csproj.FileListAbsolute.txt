@@ -1,0 +1,13 @@
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\bin\Debug\ProyectoDAE_Ciclo2.exe.config
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\bin\Debug\ProyectoDAE_Ciclo2.exe
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\bin\Debug\ProyectoDAE_Ciclo2.pdb
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.csproj.AssemblyReference.cache
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.Form1_LogIn.resources
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.Form2_OlvidarContraseña.resources
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.Form3.resources
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.Properties.Resources.resources
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.csproj.GenerateResource.cache
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.csproj.CoreCompileInputs.cache
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.exe
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.pdb
+C:\Users\70892\source\repos\ProyectoDAE_Ciclo2_2025\ProyectoDAE_Ciclo2\obj\Debug\ProyectoDAE_Ciclo2.exe.config
